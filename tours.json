@@ -8,8 +8,8 @@
       "location": "Karachi ",
       "slots": "3",
       "images": [
-        "tour4.png",
-        "tour5.png"
+        "assets/images/tour4.png",
+      "assets/images/tour5.png"
       ]
     },
     {
@@ -21,8 +21,8 @@
       "location": "lahore",
       "slots": "4",
       "images": [
-        "tour6.png",
-        "track.png"
+       "assets/images/tour6.png",
+      "assets/images/track.png"
       ]
     },
     {
@@ -34,8 +34,8 @@
       "location": "Multan",
       "slots": "5",
       "images": [
-        "tour2.png",
-        "tour3.png"
+         "assets/images/tour2.png",
+      "assets/images/tour3.png"
       ]
     }
   ]
