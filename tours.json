@@ -1,42 +1,41 @@
 [
-    {
-      "title": "Rahim yar khan to Karachi",
-      "description": "Rahim Yar Khan se Karachi ka safar ek dilchasp aur yaadgar tajurba hai jo Pakistan ke do mukhtalif lekin khoobsurat shehron ko milata hai. Is tour mein aapko na sirf lambe safar ka lutf uthana ka moka milega, balkay Karachi ke dilchasp maqamat, beaches aur cultural life ka bhi anokha nazara dekhne ko milega.",
-      "price": "22000",
-      "startDate": "2025-04-15",
-      "endDate": "2025-04-28",
-      "location": "Karachi ",
-      "slots": "3",
-      "images": [
-        "assets/images/tour4.png",
-      "assets/images/tour5.png"
-      ]
-    },
-    {
-      "title": "Rahim Yar khan to lahore",
-      "description": "Rahim Yar Khan se Lahore ka safar ek cultural aur historical journey hai jo Pakistan ke sabse rangon bhare sheher ki sair karwata hai. Lahore na sirf tareekh ka sheher hai, balkay zinda dili, khanay, aur fun ka markaz bhi hai. Ye tour aapko le jaye ga un maqamat tak jahan Pakistan ka asli rang chhupa hua hai.",
-      "price": "25000",
-      "startDate": "2025-04-17",
-      "endDate": "2025-04-29",
-      "location": "lahore",
-      "slots": "4",
-      "images": [
-       "assets/images/tour6.png",
-      "assets/images/track.png"
-      ]
-    },
-    {
-      "title": "Rahim Yar khan to Multan",
-      "description": "Rahim Yar Khan se Multan ka tour ek mukhtasir magar roohani aur tareekhi safar hai. Multan Pakistan ka ek pur-asraar aur rangin sheher hai jahan mazarat, rang birange bazaar aur traditional culture har musafir ka dil jeet leta hai. Ye tour aapko Sufi tehzeeb, historical sites aur local craftsmanship ka qareebi jaiza lenay ka moka dega.",
-      "price": "20000",
-      "startDate": "2025-04-08",
-      "endDate": "2025-04-26",
-      "location": "Multan",
-      "slots": "5",
-      "images": [
-         "assets/images/tour2.png",
-      "assets/images/tour3.png"
-      ]
-    }
-  ]
-  
+  {
+    "title": "Rahim yar khan to Karachi",
+    "description": "Rahim Yar Khan se Karachi ka safar ek dilchasp aur yaadgar tajurba hai...",
+    "price": "22000",
+    "startDate": "2025-04-15",
+    "endDate": "2025-04-28",
+    "location": "Karachi",
+    "slots": "3",
+    "images": [
+      "https://homedynamic.github.io/json-data/tour4.png",
+      "https://homedynamic.github.io/json-data/tour5.png"
+    ]
+  },
+  {
+    "title": "Rahim Yar khan to Lahore",
+    "description": "Rahim Yar Khan se Lahore ka safar ek cultural aur historical journey hai...",
+    "price": "25000",
+    "startDate": "2025-04-17",
+    "endDate": "2025-04-29",
+    "location": "Lahore",
+    "slots": "4",
+    "images": [
+      "https://homedynamic.github.io/json-data/tour6.png",
+      "https://homedynamic.github.io/json-data/track.png"
+    ]
+  },
+  {
+    "title": "Rahim Yar khan to Multan",
+    "description": "Rahim Yar Khan se Multan ka tour ek mukhtasir magar roohani aur tareekhi safar hai...",
+    "price": "20000",
+    "startDate": "2025-04-08",
+    "endDate": "2025-04-26",
+    "location": "Multan",
+    "slots": "5",
+    "images": [
+      "https://homedynamic.github.io/json-data/tour2.png",
+      "https://homedynamic.github.io/json-data/tour3.png"
+    ]
+  }
+]
